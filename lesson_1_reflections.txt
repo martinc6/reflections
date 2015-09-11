@@ -8,3 +8,5 @@ the basics, like version control, feature mapping, product dev
 roadmapping, etc.
 
 I suppose this is all par for the course in a startup, eh?
+
+This is just an example of using subl with git.
