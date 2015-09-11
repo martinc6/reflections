@@ -29,3 +29,8 @@ It's easy to see how the branching system works within git.  I imagine I'll have
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging two branches brings together any changes that were made seperately into one master document.  This is create, bc it allows people to work on features in parrallel and then bring it all together.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+When Git merges automatically, it may not be able to differentiate conflicts.  Whereas when it's always manual, you must go in and sort everything out.  This is a great failsafe mechanis, to prevent code from being butchered when you merge two branches.
