@@ -14,3 +14,8 @@ It seems that the staging area is mainly designed as a holding tank, to help kee
 How can you use the staging area to make sure you have one commit per logical change?
 
 So it makes sense to work on things, one problem or task at a time.  I suppose once you finish something, add it to the staging area, then push the commit up, to save your work.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+So as we conduct tests for myBasget, we will need to try out different features to assess market demand.  Branches will be insanely easy to split something down the middle, test different ideas, then merge the winning one back into the master branch!
