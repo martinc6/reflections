@@ -9,3 +9,8 @@ IE: the bacon site could have been it's own repository, allowing Tom and I to bo
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It seems that the staging area is mainly designed as a holding tank, to help keep track of moving parts, but before you're ready to commit.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+So it makes sense to work on things, one problem or task at a time.  I suppose once you finish something, add it to the staging area, then push the commit up, to save your work.
