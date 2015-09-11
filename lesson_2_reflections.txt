@@ -4,3 +4,8 @@ For instance I can bundle together little projects, or even seperate features, w
 then can be merged with a larger branch, or not.
 
 IE: the bacon site could have been it's own repository, allowing Tom and I to both access the site, and work on whatever parts we need to.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It seems that the staging area is mainly designed as a holding tank, to help keep track of moving parts, but before you're ready to commit.
