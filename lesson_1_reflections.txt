@@ -1,0 +1,10 @@
+It was interesting to see such a rapid debugging tool.  Tom and I
+have spent far too long hunting for a single typo in our code.
+This is a terriffic tool to help speed up our dev-process. 
+
+I think one of the things we really need to figure out is a 
+work flow system.  I know about SCURM and such, but we really need
+the basics, like version control, feature mapping, product dev
+roadmapping, etc.
+
+I suppose this is all par for the course in a startup, eh?

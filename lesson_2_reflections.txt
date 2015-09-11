@@ -1,0 +1,6 @@
+Creating repositories allows me to maintain 'containers' of code.
+
+For instance I can bundle together little projects, or even seperate features, which
+then can be merged with a larger branch, or not.
+
+IE: the bacon site could have been it's own repository, allowing Tom and I to both access the site, and work on whatever parts we need to.
