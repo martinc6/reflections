@@ -19,3 +19,8 @@ So it makes sense to work on things, one problem or task at a time.  I suppose o
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 So as we conduct tests for myBasget, we will need to try out different features to assess market demand.  Branches will be insanely easy to split something down the middle, test different ideas, then merge the winning one back into the master branch!
+
+
+How do the diagrams help you visualize the branch structure?
+
+It's easy to see how the branching system works within git.  I imagine I'll have some trouble at first when it comes to keeping track of branches.  I imagine in larger groups, there is a tendancy for 'branch-creep.' Interesting problem...
