@@ -15,3 +15,7 @@ Forks == pulling code on Github from someone else's Github repository to your ow
 Clones == pulling a repository either from Github to a local, or local to local.
 Branches == a split from the master that allows you to make experimental changes in your code and see how it pans out.
 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It allows you to see the chain of changes, from what you've done locally, to what was stored in the repository.
